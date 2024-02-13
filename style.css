@@ -1,0 +1,24 @@
+.second img {
+  height: 150px;
+  display: block;
+  padding: 3px;
+  opacity: 0.6;
+}
+.first {
+  left: 30%;
+  top: 30%;
+  position: absolute;
+}
+.second {
+  float: left;
+}
+.khan {
+  float: right;
+  size: 500px;
+}
+.second img:hover {
+  opacity: 1;
+}
+.khan img {
+  size: 500px;
+}
